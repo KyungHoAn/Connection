@@ -1,0 +1,3 @@
+rootProject.name = 'connection'
+include('barber-main','barber-core')
+
